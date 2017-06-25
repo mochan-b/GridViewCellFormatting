@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GridViewCellFormatting/obj/Debug
+/GridViewCellFormatting/bin/Debug
+/GridViewCellFormatting/bin/Debug
+/GridViewCellFormatting/bin/Debug/GridViewCellFormatting.exe
+/.vs/GridViewCellFormatting/v15
+/.vs/GridViewCellFormatting/v15/.suo
